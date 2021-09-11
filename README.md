@@ -5,29 +5,22 @@
 </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js
-&logoColor=white"/></a>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js
-&logoColor=white"/></a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu
-&logoColor=white"/></a>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C
-&logoColor=white"/></a>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript
-&logoColor=white"/></a>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3
-&logoColor=white"/></a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;&nbsp;
 </p>
 <br>
 <h3 align="center">
 School
 </h3>
 <p align="center" font-weight="bold">
-<img src="https://img.shields.io/badge/Jangseung-339933?style=flat-square&logo=Google Classroom
-&logoColor=white"/></a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Jangseung-339933?style=flat-square&logo=Google Classroom&logoColor=white"/></a>&nbsp;&nbsp;
 </p>
 <br><br>
 <p align="center">
