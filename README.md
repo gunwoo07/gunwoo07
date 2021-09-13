@@ -1,4 +1,6 @@
-# Gunwoo Kim
+<p align="cetner">
+Gunwoo Kim
+</p>
 
 <h3 align="center">
 🛠 Tech Stack 🛠
