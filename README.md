@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Gunwoo%20Kim&fontSize=70&fontAlignY=35&color=0550AE)
+# Gunwoo Kim
 
 <h3 align="center">
 🛠 Tech Stack 🛠
