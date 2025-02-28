@@ -1,4 +1,4 @@
-<h1 align="center">Dev07</h1>
+<h1 align="center">고등학생</h1>
 <br>
 <h3 align="center">
 🛠 Tech Stack 🛠
